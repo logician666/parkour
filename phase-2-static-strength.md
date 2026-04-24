@@ -12,7 +12,7 @@ goal: "Build foundational strength in positions required for parkour — isometr
 > **Goal:** Build foundational strength in positions required for parkour — isometric endurance, push strength, wall support.
 > **Unlock criteria:** Phase 1 complete. Can hold deep squat 60s and plank 40s.
 
-[[_hub|← Hub]]
+[[phase-1-foundation|← Phase 1]] | [[_hub|Hub]] | [[phase-3-dynamic-strength|Phase 3 →]]
 
 ---
 
@@ -35,7 +35,7 @@ goal: "Build foundational strength in positions required for parkour — isometr
 - Elbows flare at ~45°, not fully out
 - Chest touches wall, not just nose
 
-[Video demonstration](https://www.youtube.com/watch?v=cfns5WseW5o)
+![](https://www.youtube.com/watch?v=cfns5WseW5o)
 
 ---
 
@@ -52,7 +52,7 @@ goal: "Build foundational strength in positions required for parkour — isometr
 - Knees at 90° — not behind toes
 - Do not rest hands on knees
 
-[Video demonstration](https://www.youtube.com/watch?v=y-wV4Venusw)
+![](https://www.youtube.com/watch?v=y-wV4Venusw)
 
 ---
 
@@ -69,7 +69,7 @@ goal: "Build foundational strength in positions required for parkour — isometr
 - If back lifts off — raise legs higher
 - Breathe — short exhales
 
-[Video demonstration](https://www.youtube.com/watch?v=LlDNef_Ztsc)
+![](https://www.youtube.com/watch?v=LlDNef_Ztsc)
 
 ---
 
@@ -86,7 +86,7 @@ goal: "Build foundational strength in positions required for parkour — isometr
 - Push floor away — active shoulders
 - Come down controlled
 
-[Video demonstration](https://www.youtube.com/watch?v=fPo_HfPiOmo)
+![](https://www.youtube.com/watch?v=fPo_HfPiOmo)
 
 **Cool-down:** 5 min — doorway chest stretch, wrist flexor stretch, shoulder cross-body stretch
 
@@ -111,7 +111,7 @@ goal: "Build foundational strength in positions required for parkour — isometr
 - Squeeze glute of working side
 - If weak side drops hips — reduce reps until equal
 
-[Video demonstration](https://www.youtube.com/watch?v=LM8XfnEPuKg)
+![](https://www.youtube.com/watch?v=LM8XfnEPuKg)
 
 ---
 
@@ -128,7 +128,7 @@ goal: "Build foundational strength in positions required for parkour — isometr
 - Full open between reps
 - Use whole hand — not fingers only
 
-[Video demonstration](https://www.youtube.com/watch?v=fKn_2Nj1AoE)
+![](https://www.youtube.com/watch?v=fKn_2Nj1AoE)
 
 ---
 
@@ -145,7 +145,7 @@ goal: "Build foundational strength in positions required for parkour — isometr
 - Hamstrings control the descent — feel the burn in back of thigh
 - Lower as far as you can control without crashing
 
-[Video demonstration](https://www.youtube.com/watch?v=W3k0HE8QZGE)
+![](https://www.youtube.com/watch?v=_e9vFU9-tkc)
 
 ---
 
@@ -162,7 +162,7 @@ goal: "Build foundational strength in positions required for parkour — isometr
 - You will feel fatigue in forearm — correct
 - If tendons ache, stop immediately
 
-[Video demonstration](https://www.youtube.com/watch?v=fYBCn7uJKQA)
+![](https://www.youtube.com/watch?v=fYBCn7uJKQA)
 
 **Cool-down:** 5 min — seated hamstring stretch, kneeling hip flexor stretch, child's pose
 
@@ -187,7 +187,7 @@ goal: "Build foundational strength in positions required for parkour — isometr
 - Look down 30cm ahead — neutral neck
 - Log your max reps — this is your strength progression marker
 
-[Video demonstration](https://www.youtube.com/watch?v=_l3ySVKYVJ8)
+![](https://www.youtube.com/watch?v=_l3ySVKYVJ8)
 
 ---
 
@@ -204,7 +204,7 @@ goal: "Build foundational strength in positions required for parkour — isometr
 - Arms swing up during jump for height
 - Control descent — do not crash
 
-[Video demonstration](https://www.youtube.com/watch?v=CVaEhXotL7M)
+![](https://www.youtube.com/watch?v=CVaEhXotL7M)
 
 ---
 
@@ -221,7 +221,7 @@ goal: "Build foundational strength in positions required for parkour — isometr
 - Top arm on hip or extend upward for challenge
 - Both sides equal time — note any asymmetry
 
-[Video demonstration](https://www.youtube.com/watch?v=K2iEpUPiMoY)
+![](https://www.youtube.com/watch?v=K2iEpUPiMoY)
 
 **Cool-down:** 5 min — spinal twist, pigeon pose, doorway chest open
 
@@ -234,3 +234,7 @@ goal: "Build foundational strength in positions required for parkour — isometr
 | Push-up | 15 in one set |
 | Wall sit | 60s |
 | Squat jump landing | Controlled, soft, consistent |
+
+---
+
+[[phase-1-foundation|← Phase 1]] | [[_hub|Hub]] | [[phase-3-dynamic-strength|Phase 3 →]]

@@ -7,13 +7,13 @@ session:
 feel: 
 ---
 
-# Parkour Session — <% tp.date.now("YYYY-MM-DD") %>
+# Session — <% tp.date.now("YYYY-MM-DD") %>
 
-**Phase:** 
-**Week / Session:** Week  · Session 
-**How I felt (1–5):** 
-
+**Phase note:** [[phase-1-foundation]] ← *(update to your current phase)*
 [[_hub|← Hub]]
+
+**Phase:** &nbsp; · &nbsp; **Week / Session:** Week &nbsp; · &nbsp; S  
+**Feel (1–5):** [feel:: ]
 
 ---
 
@@ -23,14 +23,22 @@ feel:
 
 ---
 
-## Exercise log
+## Exercises
 
-| Exercise | Sets done | Result | Notes |
-|----------|-----------|--------|-------|
-|          |           |        |       |
-|          |           |        |       |
-|          |           |        |       |
-|          |           |        |       |
+| Exercise | Sets | Result | Notes |
+|----------|------|--------|-------|
+|          |      |        |       |
+|          |      |        |       |
+|          |      |        |       |
+|          |      |        |       |
+
+---
+
+## Key result
+
+> The single most important number or quality score from today — the one you will compare against next session.
+
+[key_result:: ]
 
 ---
 
@@ -40,7 +48,7 @@ feel:
 
 ---
 
-## Session notes
+## Reflection
 
 **What went well:**
 

@@ -13,7 +13,7 @@ goal: "Train the nervous system for rapid force production — the physical hall
 > **Unlock criteria:** Phase 3 complete. Nordic curl 80% depth. Stick landing quality 4/5. Dead hang 40s.
 > **Critical rule:** Every plyometric set requires full recovery. Do NOT shorten rest periods. Power output, not endurance, is the training stimulus. Fatigue kills the adaptation.
 
-[[_hub|← Hub]]
+[[phase-3-dynamic-strength|← Phase 3]] | [[_hub|Hub]] | [[phase-5-body-control|Phase 5 →]]
 
 ---
 
@@ -38,7 +38,7 @@ goal: "Train the nervous system for rapid force production — the physical hall
 - Silent landing = quality 5. Loud thud = 1–2. Stumble = 1.
 - The 3-second hold is mandatory — it confirms control, not just survival of the landing
 
-*Search: "squat jump landing mechanics" for video reference.*
+![](https://www.youtube.com/watch?v=34yBjkF5gkg)
 
 ---
 
@@ -57,7 +57,7 @@ goal: "Train the nervous system for rapid force production — the physical hall
 - Stick every landing — the deceleration is part of the exercise
 - Log distance each set — track your best
 
-*Search: "standing broad jump technique" for video reference.*
+![](https://www.youtube.com/watch?v=XqpN9AbLMe4)
 
 ---
 
@@ -75,7 +75,7 @@ goal: "Train the nervous system for rapid force production — the physical hall
 - The 3-second hold is mandatory — it measures real control
 - Alternate legs across sets, not within a set
 
-*Search: "single leg bound and stick" for video reference.*
+![](https://www.youtube.com/watch?v=l3KNrID-QWo)
 
 ---
 
@@ -93,7 +93,7 @@ goal: "Train the nervous system for rapid force production — the physical hall
 - Keep the torso upright — resist lateral lean
 - Track distance consistently
 
-*Search: "lateral bound exercise" for video reference.*
+![](https://www.youtube.com/watch?v=rzSdiA1WoW4)
 
 **Cool-down:** 8 min — pigeon pose extended hold (90s each), standing quad stretch, calf stretches, full hip flexor series
 
@@ -119,7 +119,7 @@ goal: "Train the nervous system for rapid force production — the physical hall
 - Keep core rigid throughout — no hip pike on the push
 - Rate 5 = hands clearly airborne. Rate 3 = almost leaves floor. Rate 1 = fast but grounded.
 
-*Search: "explosive push-up clap push-up progression" for video reference.*
+![](https://www.youtube.com/watch?v=Pd3VxHIopZE)
 
 ---
 
@@ -137,7 +137,7 @@ goal: "Train the nervous system for rapid force production — the physical hall
 - Land with soft elbows — do not lock elbows on landing impact
 - Progress: fast push → partial airtime → full airtime
 
-*Search: "plyometric pike push-up" for video reference.*
+![](https://www.youtube.com/watch?v=5wsTCNweCpQ)
 
 ---
 
@@ -155,8 +155,6 @@ goal: "Train the nervous system for rapid force production — the physical hall
 - Breathe: inhale before, exhale forcefully during push
 - This should feel maximally effortful, not just hard
 
-*Search: "explosive isometric wall push" for video reference.*
-
 ---
 
 ### Hanging Scapular Pull + Explosive Pull Initiation
@@ -171,9 +169,9 @@ goal: "Train the nervous system for rapid force production — the physical hall
 - Arms stay straight — this is a shoulder movement only
 - Feel the lats engage at the initiation
 - The rise is small but distinct
-- If you cannot feel the difference between passive and active position, revisit Phase 2's passive hang drill
+- If you cannot feel the difference between passive and active position, revisit [[phase-1-foundation|Phase 1's]] passive hang drill
 
-*Search: "scapular pull-up technique" for video reference.*
+![](https://www.youtube.com/watch?v=V0hzdT1CZnk)
 
 **Cool-down:** 8 min — doorway chest stretch, cross-body shoulder stretch, wrist decompression (shake out, then passive flexor stretch), thoracic rotation
 
@@ -181,7 +179,7 @@ goal: "Train the nervous system for rapid force production — the physical hall
 
 ## Session 3 — Reactive Circuit
 
-**Warm-up:** 8 min — full joint circuit from Phase 1 Session 1 (all 4 exercises, 1 set each)
+**Warm-up:** 8 min — full joint circuit from [[phase-1-foundation|Phase 1 Session 1]] (all 4 exercises, 1 set each)
 
 > **Circuit structure:** Complete all exercises back-to-back with 20s rest between exercises. Rest 3 min between full circuit rounds. Complete 4 rounds. The circuit trains the reactive quality — moving explosively under accumulating fatigue while maintaining landing precision.
 
@@ -192,7 +190,7 @@ goal: "Train the nervous system for rapid force production — the physical hall
 #### Exercise A — Squat Jump to Stick
 4 reps · 20s rest after
 
-Same as Phase 2, but now the standard is: stick every rep, hold 3 seconds, quality 4/5 minimum. If quality drops below 3, rest longer between rounds.
+Same as [[phase-2-static-strength|Phase 2]], but now the standard is: stick every rep, hold 3 seconds, quality 4/5 minimum. If quality drops below 3, rest longer between rounds.
 
 ---
 
@@ -228,7 +226,7 @@ The final exercise of each round. Drive for maximum distance. This ends the roun
 
 Track how quality degrades across rounds. The goal over weeks 7–8: Round 4 quality should equal Round 1 quality.
 
-**Cool-down:** 10 min — extended hip flexor series, thoracic foam roll (if available, else thoracic extension over chair back), pigeon pose, quad stretch, wrist and shoulder decompression
+**Cool-down:** 10 min — extended hip flexor series, thoracic extension over chair back, pigeon pose, quad stretch, wrist and shoulder decompression
 
 ---
 
@@ -236,8 +234,12 @@ Track how quality degrades across rounds. The goal over weeks 7–8: Round 4 qua
 
 | Exercise | Target |
 |----------|--------|
-| Depth drop | Silent landing, quality 5 consistently |
+| Maximum jump to stick | Silent landing, quality 5 consistently |
 | Broad jump | Measurable improvement from Week 7 baseline |
 | Explosive push-up | Hands clearly airborne, 4 reps, full position |
 | Single-leg stick landing | Hold 3s, quality 4/5 each leg |
 | Reactive circuit | Quality stable across all 4 rounds |
+
+---
+
+[[phase-3-dynamic-strength|← Phase 3]] | [[_hub|Hub]] | [[phase-5-body-control|Phase 5 →]]

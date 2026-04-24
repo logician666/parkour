@@ -13,7 +13,7 @@ goal: "Develop strength through full range of motion under load. Begin training 
 > **Unlock criteria:** Phase 2 complete. 15 push-ups in one set. Wall sit 60s.
 > **Progression note:** Week 6 repeats the same sessions as Week 5. Log your Week 5 numbers and beat them in Week 6.
 
-[[_hub|← Hub]]
+[[phase-2-static-strength|← Phase 2]] | [[_hub|Hub]] | [[phase-4-explosive-power|Phase 4 →]]
 
 ---
 
@@ -37,7 +37,7 @@ goal: "Develop strength through full range of motion under load. Begin training 
 - Drive through the heel of the front foot, not the toes
 - Start weaker leg first
 
-*Search: "wall assisted split squat" for video reference.*
+![](https://www.youtube.com/watch?v=JFoMxznf294)
 
 ---
 
@@ -55,7 +55,7 @@ goal: "Develop strength through full range of motion under load. Begin training 
 - Land on both feet, absorb softly — do not land stiff
 - Log which leg is weaker — address it with an extra set
 
-*Search: "single leg squat jump" for video reference.*
+![](https://www.youtube.com/watch?v=I7ChaipZVM4)
 
 ---
 
@@ -63,7 +63,7 @@ goal: "Develop strength through full range of motion under load. Begin training 
 **Sets · Reps · Rest:** 3 × 6–8 reps · 90s rest
 **Log type:** Reps (note how far you lower before using hands)
 
-> **Why:** Progress from Phase 2's assisted version. Hamstring strength in full hip extension is the primary driver of explosive jump height and the primary preventer of hamstring tears.
+> **Why:** Progress from [[phase-2-static-strength|Phase 2's]] assisted version. Hamstring strength in full hip extension is the primary driver of explosive jump height and the primary preventer of hamstring tears.
 
 **How:** Same setup as Phase 2 — kneel, feet hooked. This time, aim to lower at least 60% of the way to the floor before using hands. Push back with minimal hand assistance. Track your depth each session.
 
@@ -73,7 +73,7 @@ goal: "Develop strength through full range of motion under load. Begin training 
 - If you crash at the bottom — the hands catch you. That is fine. Lower slower next time.
 - The goal over these 2 weeks: full lowering, partial push with hands
 
-*Search: "Nordic curl progression" for video reference.*
+![](https://www.youtube.com/watch?v=_e9vFU9-tkc)
 
 ---
 
@@ -91,7 +91,7 @@ goal: "Develop strength through full range of motion under load. Begin training 
 - Look at a fixed point on the wall to stabilise balance
 - Log your quality rating each session — it should climb
 
-*Search: "precision landing training parkour" for video reference.*
+![](https://www.youtube.com/watch?v=7TAHkRT7A6M)
 
 **Cool-down:** 5 min — pigeon pose each side, kneeling hip flexor stretch, standing quad stretch
 
@@ -117,7 +117,7 @@ goal: "Develop strength through full range of motion under load. Begin training 
 - Elbows flare slightly outward
 - Full extension at top — push the floor away
 
-*Search: "pike push-up tutorial" for video reference.*
+![](https://www.youtube.com/watch?v=5wsTCNweCpQ)
 
 ---
 
@@ -135,7 +135,7 @@ goal: "Develop strength through full range of motion under load. Begin training 
 - Squeeze shoulder blades together at the top
 - Feet closer = easier. Feet further = harder.
 
-*Search: "door frame row bodyweight" for video reference.*
+![](https://www.youtube.com/watch?v=eCojBl6k_HE)
 
 ---
 
@@ -153,7 +153,7 @@ goal: "Develop strength through full range of motion under load. Begin training 
 - Full elbow extension at the top
 - Core rigid throughout — no hip piking
 
-*Search: "diamond push-up tutorial" for video reference.*
+![](https://www.youtube.com/watch?v=2-OFbQ9GLpE)
 
 ---
 
@@ -171,7 +171,7 @@ goal: "Develop strength through full range of motion under load. Begin training 
 - Move slow enough to feel the unilateral load
 - Work toward arms fully extended on the non-working side
 
-*Search: "archer push-up tutorial" for video reference.*
+![](https://www.youtube.com/watch?v=L109Ad4zCR4)
 
 **Cool-down:** 5 min — doorway chest stretch, cross-body shoulder stretch, wrist flexor and extensor stretch
 
@@ -197,7 +197,7 @@ goal: "Develop strength through full range of motion under load. Begin training 
 - Breathe rhythmically — exhale on the push, inhale on the jump
 - Log your form quality, not just the count
 
-*Search: "burpee proper form" for video reference.*
+![](https://www.youtube.com/watch?v=qLBImHhCXSw)
 
 ---
 
@@ -205,7 +205,7 @@ goal: "Develop strength through full range of motion under load. Begin training 
 **Sets · Reps · Rest:** 4 × 6 explosive steps each direction · 90s rest
 **Log type:** Quality (1–5)
 
-> **Why:** Phase 1 bear crawl built the pattern. Now the goal is explosive, reactive quadrupedal movement — the basis of parkour ground movement, underbar entries, and rapid directional changes at low height.
+> **Why:** [[phase-1-foundation|Phase 1]] bear crawl built the pattern. Now the goal is explosive, reactive quadrupedal movement — the basis of parkour ground movement, underbar entries, and rapid directional changes at low height.
 
 **How:** Same starting position as Phase 1. Instead of slow deliberate steps, move as fast as possible for 6 steps forward, then 6 steps back. Between sets, assess: did hips stay level? Did you maintain coordination? Quality drops as speed increases — track where your form breaks.
 
@@ -215,7 +215,7 @@ goal: "Develop strength through full range of motion under load. Begin training 
 - Breathe — don't hold breath under exertion
 - Rate quality 1–5: 5 = fast and perfectly coordinated
 
-*Search: "explosive bear crawl parkour" for video reference.*
+![](https://www.youtube.com/watch?v=crItF2sSedU)
 
 ---
 
@@ -233,7 +233,7 @@ goal: "Develop strength through full range of motion under load. Begin training 
 - Do not rush the landing extension — control the knee drive and the land separately
 - Quality before height: clean tuck > high sloppy jump
 
-*Search: "tuck jump exercise" for video reference.*
+![](https://www.youtube.com/watch?v=-bnJGikRGsM)
 
 ---
 
@@ -251,7 +251,7 @@ goal: "Develop strength through full range of motion under load. Begin training 
 - Grip should be firm but not white-knuckled
 - Gradually increase time as grip endurance improves
 
-*Search: "active vs passive hang" for video reference.*
+![](https://www.youtube.com/watch?v=V0hzdT1CZnk)
 
 **Cool-down:** 5 min — full spinal twist, pigeon pose, wrist prayer stretch, child's pose
 
@@ -261,8 +261,12 @@ goal: "Develop strength through full range of motion under load. Begin training 
 
 | Exercise | Target |
 |----------|--------|
-| Bulgarian split squat | 10 reps each leg, controlled |
+| Wall-assisted split squat | 10 reps each leg, controlled |
 | Pike push-up | 10 reps, full ROM |
 | Nordic curl | Lower 80% without hands |
 | Stick landing | Quality rating 4/5 consistently |
 | Dead hang | 40s continuous |
+
+---
+
+[[phase-2-static-strength|← Phase 2]] | [[_hub|Hub]] | [[phase-4-explosive-power|Phase 4 →]]

@@ -10,11 +10,11 @@ goal: "Combine all qualities in flowing circuits. Readiness assessment for joini
 # Phase 6 — Pre-Parkour Integration `Weeks 13–16`
 
 > **Goal:** Combine all developed qualities into flowing, parkour-specific circuits. Assess readiness to train with others outdoors.
-> **Unlock criteria:** Phase 5 assessment passed in full.
+> **Unlock criteria:** [[phase-5-body-control|Phase 5]] assessment passed in full.
 > **Structure:** 4 weeks. Each week has a theme — Week 13 recalibrates, Week 14 pushes volume, Week 15 pushes intensity, Week 16 is the final readiness assessment.
 > **Mindset shift:** You are no longer training to build capacity. You are training to demonstrate it under combined load. Every session should feel like practice, not exercise.
 
-[[_hub|← Hub]]
+[[phase-5-body-control|← Phase 5]] | [[_hub|Hub]]
 
 ---
 
@@ -24,7 +24,7 @@ goal: "Combine all qualities in flowing circuits. Readiness assessment for joini
 
 ### Session 1 — Full Benchmark Retest
 
-Complete all Phase benchmarks from Phases 1–5 in a single session. Rest fully between each test. Log results.
+Complete all phase benchmarks from Phases 1–5 in a single session. Rest fully between each test. Log results.
 
 | Benchmark | Phase 1–2 target | Phase 3–4 target | Phase 5 target | Your result today |
 |-----------|-----------------|-----------------|----------------|-------------------|
@@ -47,10 +47,10 @@ After logging: identify the 2 lowest-scoring benchmarks. These become your focus
 **Structure:** 5 rounds. 90s rest between rounds. Focus on movement quality, not speed.
 
 **Round structure:**
-1. Bulgarian split squat × 6 each leg
-2. Pike push-up × 8
+1. [[phase-3-dynamic-strength|Wall-assisted split squat]] × 6 each leg
+2. [[phase-3-dynamic-strength|Pike push-up]] × 8
 3. Quadrupedal flow sequence (full) × 1
-4. Single-leg bound to stick × 4 each leg
+4. [[phase-4-explosive-power|Single-leg bound to stick]] × 4 each leg
 5. Forward roll × 3
 
 After each round, rate your movement quality 1–5. The goal: round 5 quality = round 1 quality.
@@ -76,7 +76,7 @@ After each round, rate your movement quality 1–5. The goal: round 5 quality = 
 4 exercises, 6 rounds, 90s rest between rounds:
 1. Explosive step-up × 6 each leg
 2. Single-leg squat (pistol, your level) × 5 each leg
-3. Nordic curl × 5 (log depth)
+3. [[phase-3-dynamic-strength|Nordic curl]] × 5 (log depth)
 4. Jump squat to stick × 4 (log quality)
 
 **Rule:** If landing quality drops below 3/5 in any round, end the session. Quality is not negotiable under fatigue.
@@ -88,9 +88,9 @@ After each round, rate your movement quality 1–5. The goal: round 5 quality = 
 **Warm-up:** 5 min — wrist circles, passive hang 30s, incline push-ups ×10
 
 4 exercises, 5 rounds, 90s rest:
-1. Explosive push-up × 5
-2. Incline row × 12
-3. Pike push-up × 8
+1. [[phase-4-explosive-power|Explosive push-up]] × 5
+2. [[phase-3-dynamic-strength|Incline row]] × 12
+3. [[phase-3-dynamic-strength|Pike push-up]] × 8
 4. Scapular pull × 5 (explosive)
 
 **Log:** max push-up set in round 1 vs. round 5. Note degradation percentage.
@@ -102,11 +102,11 @@ After each round, rate your movement quality 1–5. The goal: round 5 quality = 
 **This is the hardest session of the programme.**
 
 6 rounds, 2 min rest:
-1. Broad jump × 3 (log distance)
-2. Explosive push-up × 4
+1. [[phase-4-explosive-power|Broad jump]] × 3 (log distance)
+2. [[phase-4-explosive-power|Explosive push-up]] × 4
 3. Pistol squat × 4 each leg
 4. Quadrupedal flow sequence × 1
-5. Precision jump × 3 (log accuracy)
+5. [[phase-5-body-control|Precision jump]] × 3 (log accuracy)
 6. Forward roll × 3
 
 **Post-session:** rate your overall quality across all 6 rounds. This number is your Week 14 baseline. Week 15 should beat it.
@@ -123,10 +123,10 @@ After each round, rate your movement quality 1–5. The goal: round 5 quality = 
 
 5 exercises, 5 sets each, 2–3 min rest:
 1. Depth drop (from higher surface if available) × 3 — log landing quality
-2. Broad jump — max distance × 3 — log distance
-3. Explosive push-up × 4 — log whether hands leave floor
-4. Single-leg bound to stick × 3 each leg — log quality
-5. Lateral bound — max distance × 4 each side — log distance
+2. [[phase-4-explosive-power|Broad jump]] — max distance × 3 — log distance
+3. [[phase-4-explosive-power|Explosive push-up]] × 4 — log whether hands leave floor
+4. [[phase-4-explosive-power|Single-leg bound to stick]] × 3 each leg — log quality
+5. [[phase-4-explosive-power|Lateral bound]] — max distance × 4 each side — log distance
 
 **Objective:** every set should match or exceed your best set from Week 14.
 
@@ -137,11 +137,11 @@ After each round, rate your movement quality 1–5. The goal: round 5 quality = 
 **Warm-up:** 5 min — single-leg balance 45s each, slow foot placement walk
 
 5 exercises, 4 sets each, 90s rest:
-1. Precision jump with distracted vision × 4 — log accuracy
+1. [[phase-5-body-control|Precision jump with distracted vision]] × 4 — log accuracy
 2. Pistol squat × 5 each leg — log level achieved
-3. Blind reach and placement × 8 each hand — log accuracy
-4. Hand placement push-up × 8 — log quality
-5. Single-leg landing to direction change × 5 each side — log quality
+3. [[phase-5-body-control|Blind reach and placement]] × 8 each hand — log accuracy
+4. [[phase-5-body-control|Hand placement push-up]] × 8 — log quality
+5. [[phase-5-body-control|Single-leg landing to direction change]] × 5 each side — log quality
 
 **Objective:** accuracy and quality should be at their personal bests.
 
@@ -153,7 +153,7 @@ After each round, rate your movement quality 1–5. The goal: round 5 quality = 
 
 5 exercises, 4 sets, 2 min rest:
 1. Quadrupedal flow sequence × 2 (maximum speed while maintaining quality)
-2. Arm balance hold (crow/frog stand) — maximum duration
+2. [[phase-5-body-control|Arm balance hold]] — maximum duration
 3. Forward roll × 4 (quality 5/5 goal)
 4. Underbar simulation × 5 — log quality
 5. Balance circuit: single-leg 30s → pistol × 3 → lateral step-over traverse (one continuous flow)
@@ -244,3 +244,7 @@ This programme ends at the threshold of outdoor parkour practice. It does not te
 3. Continue the maintenance circuit (Phases 3–4, 2 sessions/week) to sustain the physical base while skill-building begins
 
 The body is ready. The rest is practice.
+
+---
+
+[[phase-5-body-control|← Phase 5]] | [[_hub|Hub]]

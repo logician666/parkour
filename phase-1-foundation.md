@@ -12,7 +12,7 @@ goal: "Prepare joints, establish baseline mobility, activate deep stabilisers. N
 > **Goal:** Prepare joints, establish baseline mobility, activate deep stabilisers. No intensity — only precision.
 > **Unlock for Phase 2:** Complete all 3 sessions in both weeks (6 sessions total).
 
-[[_hub|← Hub]]
+[[_hub|← Hub]] | [[phase-2-static-strength|Phase 2 →]]
 
 ---
 
@@ -35,7 +35,7 @@ goal: "Prepare joints, establish baseline mobility, activate deep stabilisers. N
 - Slow controlled circles — not fast
 - Feel tension, not pain
 
-[Video demonstration](https://www.youtube.com/watch?v=mSZWSQSSEjE)
+![](https://www.youtube.com/watch?v=mSZWSQSSEjE)
 
 ---
 
@@ -52,7 +52,7 @@ goal: "Prepare joints, establish baseline mobility, activate deep stabilisers. N
 - Slow eccentric (lowering) is the training stimulus
 - Keep heels off ground at top
 
-[Video demonstration](https://www.youtube.com/watch?v=g4C8gQR_4Jw)
+![](https://www.youtube.com/watch?v=jGhvbUSaQ0Q)
 
 ---
 
@@ -69,7 +69,7 @@ goal: "Prepare joints, establish baseline mobility, activate deep stabilisers. N
 - Breathe steadily
 - Look slightly forward, not down
 
-[Video demonstration](https://www.youtube.com/watch?v=7xf3nAXFiJk)
+![](https://www.youtube.com/watch?v=vg5hegN6pk0)
 
 ---
 
@@ -86,7 +86,7 @@ goal: "Prepare joints, establish baseline mobility, activate deep stabilisers. N
 - Slow return — eccentric matters
 - No pain in tendons — discomfort is ok
 
-[Video demonstration](https://www.youtube.com/watch?v=fYBCn7uJKQA)
+![](https://www.youtube.com/watch?v=fYBCn7uJKQA)
 
 **Cool-down:** 5 min — seated forward fold, pigeon pose each side, wrist prayer stretch
 
@@ -111,7 +111,7 @@ goal: "Prepare joints, establish baseline mobility, activate deep stabilisers. N
 - Push knees out in line with toes
 - Work toward 60s over the 2 weeks
 
-[Video demonstration](https://www.youtube.com/watch?v=HwnJe1nFMoI)
+![](https://www.youtube.com/watch?v=YjjZnQpXB2U)
 
 ---
 
@@ -128,7 +128,7 @@ goal: "Prepare joints, establish baseline mobility, activate deep stabilisers. N
 - Exhale on extension
 - Move slow — 3 seconds each way
 
-[Video demonstration](https://www.youtube.com/watch?v=g_BYB0R-4Ws)
+![](https://www.youtube.com/watch?v=g_BYB0R-4Ws)
 
 ---
 
@@ -145,7 +145,7 @@ goal: "Prepare joints, establish baseline mobility, activate deep stabilisers. N
 - Do not hyperextend lower back at top
 - Feet flat, not on toes
 
-[Video demonstration](https://www.youtube.com/watch?v=8bbE64NuDTU)
+![](https://www.youtube.com/watch?v=8bbE64NuDTU)
 
 ---
 
@@ -162,7 +162,7 @@ goal: "Prepare joints, establish baseline mobility, activate deep stabilisers. N
 - Active depressed shoulders — not passive shrug
 - Grip central part of frame — do not stress frame joints
 
-[Video demonstration](https://www.youtube.com/watch?v=X8VUHIqUvz0)
+![](https://www.youtube.com/watch?v=2vspW4N4BMs)
 
 **Cool-down:** 5 min — lying piriformis stretch, supine twist, doorway chest stretch
 
@@ -187,7 +187,7 @@ goal: "Prepare joints, establish baseline mobility, activate deep stabilisers. N
 - Push hips back like opening a car door with your hip
 - You should feel it in hamstrings, not lower back
 
-[Video demonstration](https://www.youtube.com/watch?v=XxWcirHIwVo)
+![](https://www.youtube.com/watch?v=P9akD4PyOXk)
 
 ---
 
@@ -204,7 +204,7 @@ goal: "Prepare joints, establish baseline mobility, activate deep stabilisers. N
 - Knee tracks over foot — not caving inward
 - Feel inner thigh stretch on straight leg
 
-[Video demonstration](https://www.youtube.com/watch?v=gwWv7aPcD88)
+![](https://www.youtube.com/watch?v=gwWv7aPcD88)
 
 ---
 
@@ -221,7 +221,7 @@ goal: "Prepare joints, establish baseline mobility, activate deep stabilisers. N
 - Head neutral — look at floor 30cm ahead
 - Push elbows into floor for lat activation
 
-[Video demonstration](https://www.youtube.com/watch?v=pvIjsG5Svck)
+![](https://www.youtube.com/watch?v=pvIjsG5Svck)
 
 ---
 
@@ -238,7 +238,7 @@ goal: "Prepare joints, establish baseline mobility, activate deep stabilisers. N
 - Slow controlled lift
 - Brace core before each tap
 
-[Video demonstration](https://www.youtube.com/watch?v=AEfrVsF2EkY)
+![](https://www.youtube.com/watch?v=AEfrVsF2EkY)
 
 **Cool-down:** 5 min — child's pose, cat-cow ×10, standing hip flexor stretch
 
@@ -252,3 +252,7 @@ goal: "Prepare joints, establish baseline mobility, activate deep stabilisers. N
 | Plank | 40s |
 | Bear crawl | Smooth, hips level, no bobbing |
 | Passive hang | 30s active shoulders |
+
+---
+
+[[_hub|← Hub]] | [[phase-2-static-strength|Phase 2 — Static Strength →]]

@@ -13,7 +13,7 @@ goal: "Balance, precision movement, quadrupedal flow, and spatial awareness — 
 > **Unlock criteria:** Phase 4 complete. Reactive circuit quality stable across rounds. Silent depth drop landing.
 > **Structure:** 4 themed weeks, 3 sessions per week. Each week builds a distinct quality. Week 12 integrates all four.
 
-[[_hub|← Hub]]
+[[phase-4-explosive-power|← Phase 4]] | [[_hub|Hub]] | [[phase-6-integration|Phase 6 →]]
 
 ---
 
@@ -114,6 +114,8 @@ goal: "Balance, precision movement, quadrupedal flow, and spatial awareness — 
 - Knee tracks over the foot — no valgus collapse
 - Lower is better only if control is maintained
 - Log your level honestly — progress is the story, not the level
+
+![](https://www.youtube.com/watch?v=vq5-vdgJc0I)
 
 ---
 
@@ -241,7 +243,7 @@ Repeat Session 1 and Session 2 key exercises in mini-circuit format. 1 set each,
 - Look forward, not down
 - Come down the way you went up — controlled
 
-*Search: "crow pose / frog stand tutorial" for video reference.*
+![](https://www.youtube.com/watch?v=ysTXf7DVOf0)
 
 ---
 
@@ -257,7 +259,7 @@ Repeat Session 1 and Session 2 key exercises in mini-circuit format. 1 set each,
 - Same-side is the rule — right hand, right foot move together
 - Keep the movement slow enough to maintain coordination
 - As coordination improves, gradually increase speed
-- Alternate with bear crawl sets to feel the contrast in coordination patterns
+- Alternate with [[phase-1-foundation|bear crawl]] sets to feel the contrast in coordination patterns
 
 **Cool-down:** 5 min — wrist decompression series, child's pose, spinal twist
 
@@ -361,7 +363,7 @@ Practice the sequence slowly until smooth, then gradually increase speed.
 - Practice on soft surface only at this stage
 - Quality 5 = smooth, quiet roll, stand up without hands
 
-*Search: "parkour forward roll tutorial" for video reference.*
+![](https://www.youtube.com/watch?v=m-rIsUMjq5U)
 
 ---
 
@@ -422,7 +424,7 @@ Practice the sequence slowly until smooth, then gradually increase speed.
 
 ## Week 12 — Integration and Assessment
 
-> This week combines all qualities from Weeks 9–11 into full-length circuits and assesses readiness for Phase 6. No new exercises. Sessions are integration circuits followed by a final self-assessment on Session 3.
+> This week combines all qualities from Weeks 9–11 into full-length circuits and assesses readiness for [[phase-6-integration|Phase 6]]. No new exercises. Sessions are integration circuits followed by a final self-assessment on Session 3.
 
 ### Session 1 — Balance + Precision Circuit
 
@@ -457,10 +459,14 @@ Complete the following and log all results honestly:
 | Broad jump | Baseline + 10% from Week 7 | |
 | Reactive circuit (Phase 4 S3) | Quality stable all 4 rounds | |
 
-If all targets are met, proceed to Phase 6.
+If all targets are met, proceed to [[phase-6-integration|Phase 6]].
 
 ---
 
 ## Benchmark targets (end of Phase 5, unlock Phase 6)
 
 See Session 3 assessment table above.
+
+---
+
+[[phase-4-explosive-power|← Phase 4]] | [[_hub|Hub]] | [[phase-6-integration|Phase 6 →]]
