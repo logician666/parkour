@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "7c1cceffe17b42c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1da8a08cb7c11736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b36dc9c4b512709b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conditioning/phase-1-foundation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "phase-1-foundation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "342ae0de8575b059",
+    "type": "split",
+    "children": [
+      {
+        "id": "a37075a86616c0ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3a32cd5efc6598f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5592e78b0b433823",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "67d44ddf9b2729ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25b3bcf72bf9ad6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f4e5ca59993c47e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d28230fa84e70509",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "phase-4-explosive-power.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for phase-4-explosive-power"
+            }
+          },
+          {
+            "id": "876f1c17fb3f11c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "phase-4-explosive-power.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from phase-4-explosive-power"
+            }
+          },
+          {
+            "id": "0a0c92fa0638fe6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2894e2f0ad66479e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a1043d38d981d28a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "phase-4-explosive-power.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of phase-4-explosive-power"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b36dc9c4b512709b",
+  "lastOpenFiles": [
+    "logs/log-001.md",
+    "conditioning/phase-1-foundation.md",
+    "templates/session-log.md",
+    "_hub.md",
+    "parkour-trainer.md",
+    "conditioning",
+    "logs",
+    "conditioning/phase-3-dynamic-strength.md",
+    "conditioning/phase-2-static-strength.md",
+    "CLAUDE.md",
+    "conditioning/phase-4-explosive-power.md"
+  ]
+}

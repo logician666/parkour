@@ -1,7 +1,6 @@
 ---
 type: hub
 ---
-
 # Parkour Conditioning — Hub
 
 > 16-week periodised programme. Joint prep → static strength → dynamic strength → explosive power → body control → integration. No gym required.
@@ -53,7 +52,7 @@ LIMIT 10
 ## Equipment checklist
 
 - [ ] Door frame (top bar accessible for hanging)
-- [ ] Finger extension band
-- [ ] Grip strengthener
-- [ ] Unobstructed wall with floor space in front
-- [ ] Mat or carpet (optional, required for Phase 5 forward rolls)
+- [x] Finger extension band
+- [x] Grip strengthener
+- [x] Unobstructed wall with floor space in front
+- [x] Mat or carpet (optional, required for Phase 5 forward rolls)
